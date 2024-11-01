@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-19 13:58+0300\n"
+"PO-Revision-Date: 2019-05-19 13:58+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;sprintf;_x;printf\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: src/block/block.js:26
+msgid "Recipe card by ThemeStash"
+msgstr ""
+
+#: src/block/block.js:164
+msgid "Number of instructions"
+msgstr ""
+
+#: src/block/block.js:170
+msgid ""
+"If you remove steps will content, you will lose the content. Please, be "
+"careful with the slider."
+msgstr ""
+
+#: src/block/block.js:173
+msgid "Show/Hide Elements"
+msgstr ""
+
+#: src/block/block.js:175
+msgid "Show Recipe Title"
+msgstr ""
+
+#: src/block/block.js:182
+msgid "Show Print Button"
+msgstr ""
+
+#: src/block/block.js:189
+msgid "Show Recipe Image"
+msgstr ""
+
+#: src/block/block.js:196
+msgid "Show Cooking Time"
+msgstr ""
+
+#: src/block/block.js:203
+msgid "Show Preparation Time"
+msgstr ""
+
+#: src/block/block.js:210
+msgid "Show Nutrition"
+msgstr ""
+
+#: src/block/block.js:217
+msgid "Show Servings"
+msgstr ""
+
+#: src/block/block.js:224
+msgid "Show Ingredients"
+msgstr ""
+
+#: src/block/block.js:231
+msgid "Show Recipe Steps"
+msgstr ""
+
+#: src/block/block.js:243
+msgid "Write Recipe title…"
+msgstr ""
+
+#: src/block/block.js:260
+msgid "Upload Image"
+msgstr ""
+
+#: src/block/block.js:264
+msgid "Upload Recipe Image"
+msgstr ""
+
+#: src/block/block.js:289 src/block/block.js:488
+msgid "Cooking time"
+msgstr ""
+
+#: src/block/block.js:292 src/block/block.js:319 src/block/block.js:491
+#: src/block/block.js:517
+msgid "eg: 2 hours"
+msgstr ""
+
+#: src/block/block.js:316 src/block/block.js:514
+msgid "Preparation time"
+msgstr ""
+
+#: src/block/block.js:342 src/block/block.js:539
+msgid "Nutrition"
+msgstr ""
+
+#: src/block/block.js:345 src/block/block.js:371 src/block/block.js:542
+msgid "eg: 150kcal"
+msgstr ""
+
+#: src/block/block.js:368 src/block/block.js:564
+msgid "Servings"
+msgstr ""
+
+#: src/block/block.js:383 src/block/block.js:577
+msgid "Ingredients"
+msgstr ""
+
+#: src/block/block.js:388
+msgid "Write a list of ingredients…"
+msgstr ""
+
+#: src/block/block.js:399 src/block/block.js:588
+msgid "Instructions"
+msgstr ""
+
+#: src/block/block.js:415
+msgid "Add New Step Item"
+msgstr ""
+
+#: src/block/block.js:424
+msgid "Remove Last Step Item"
+msgstr ""
+
+#: src/block/block.js:459
+msgid "Print recipe"
+msgstr ""
+
+#: src/block/block.js:467
+msgid "Recipe Image"
+msgstr ""
+
+#: src/block/block.js:567
+msgid "eg: 2"
+msgstr ""
+
+#: src/block/recipe-step-block.js:28
+msgid "Recipe Step"
+msgstr ""
+
+#: src/init.php:134
+msgid "ThemeStash Blocks"
+msgstr ""
